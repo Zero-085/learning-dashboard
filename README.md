@@ -1,6 +1,7 @@
 # LearnOS — Student Learning Dashboard
 
 A futuristic dark-mode student dashboard built with Next.js App Router, Supabase, Tailwind CSS, and Framer Motion.
+Live: https://learning-dashboard-liart.vercel.app/dashboard
 
 ## Tech Stack
 
